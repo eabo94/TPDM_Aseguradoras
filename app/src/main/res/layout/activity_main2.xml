@@ -38,13 +38,13 @@
         android:hint="Tipo: Casa, Medico, Carro" />
 
     <Button
-        android:text="guardar municipio"
+        android:text="guardar seguro"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/button2" />
 
     <Button
-        android:text="ver municipios"
+        android:text="ver datos de cliente"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/button3" />

@@ -39,13 +39,13 @@
 
 
     <Button
-        android:text="guardar departamento"
+        android:text="guardar Cliente"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/button" />
 
     <Button
-        android:text="pasar al municipio"
+        android:text="añadir seguro"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/button4" />
